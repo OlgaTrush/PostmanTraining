@@ -420,7 +420,8 @@
 									"//merge 1\r",
 									"//merge 2\r",
 									"//pull from main\r",
-									"//merge and delete fork"
+									"//merge and delete fork\r",
+									"//conflict from main"
 								],
 								"type": "text/javascript",
 								"packages": {},
