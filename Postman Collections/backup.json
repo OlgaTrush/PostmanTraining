@@ -416,10 +416,8 @@
 									"    pm.expect(jsonData.every(pet => pet.status === \"sold\")).to.be.true;\r",
 									"});\r",
 									"\r",
-									"//changes from fork\r",
-									"//changes from fork 2\r",
-									"//3\r",
-									"//changes to pull"
+									"\r",
+									"//merge 1"
 								],
 								"type": "text/javascript",
 								"packages": {},
